@@ -1,0 +1,6 @@
+sitemap: https://www.theresearchprocess.com/sitemap.xml
+sitemap: http://www.theresearchprocess.com/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
