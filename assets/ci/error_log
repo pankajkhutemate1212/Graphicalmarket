@@ -1,0 +1,5 @@
+[19-Jul-2017 10:35:15 Etc/GMT] PHP Fatal error:  Call to undefined method press_model::get_industry_detail() in /home/algosjn8/public_html/assets/ci/application/controllers/admin/allindustry.php on line 74
+[19-Jul-2017 10:35:16 Etc/GMT] PHP Fatal error:  Call to undefined method press_model::get_industry_detail() in /home/algosjn8/public_html/assets/ci/application/controllers/admin/allindustry.php on line 74
+[19-Jul-2017 10:35:16 Etc/GMT] PHP Fatal error:  Call to undefined method press_model::get_industry_detail() in /home/algosjn8/public_html/assets/ci/application/controllers/admin/allindustry.php on line 74
+[19-Jul-2017 10:35:16 Etc/GMT] PHP Fatal error:  Call to undefined method press_model::get_industry_detail() in /home/algosjn8/public_html/assets/ci/application/controllers/admin/allindustry.php on line 74
+[19-Jul-2017 10:35:17 Etc/GMT] PHP Fatal error:  Call to undefined method press_model::get_industry_detail() in /home/algosjn8/public_html/assets/ci/application/controllers/admin/allindustry.php on line 74
